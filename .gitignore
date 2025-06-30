@@ -1,0 +1,7 @@
+/rt-app-frontend/node_modules
+/rt-app-frontend/dist
+/rt-app-frontend/.env
+
+/rt-app-backend/vendor
+/rt-app-backend/.env
+/rt-app-backend/storage/*.key
