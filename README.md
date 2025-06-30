@@ -46,6 +46,7 @@ php artisan key:generate
 
 # Konfigurasi .env (DB_NAME, DB_USER, DB_PASSWORD)
 # Contoh:
+# DB_CONNECTION=mysql
 # DB_DATABASE=rt_app
 # DB_USERNAME=root
 # DB_PASSWORD=
