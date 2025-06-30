@@ -82,6 +82,24 @@ Akses aplikasi di: `http://localhost:5173`
 
 ---
 
+### 🖼️ Screenshots
+### Dashboard
+![Dashboard](screenshots-rtapp/dashboard.png)
+### Penghuni
+![Penghuni](screenshots-rtapp/penghuni.png)
+### Rumah
+![Rumah](screenshots-rtapp/rumah.png)
+### Riwayat Penghuni
+![Riwayat Penghuni](screenshots-rtapp/penempatanpenghuni.png)
+### Pembayaran
+![Pembayaran](screenshots-rtapp/pembayaran.png)
+### Pengeluaran
+![Pengeluaran](screenshots-rtapp/pengeluaran.png)
+### Laporan
+![Laporan](screenshots-rtapp/laporan.png)
+
+---
+
 ## 📊 Dokumentasi API (Ringkasan)
 
 | Endpoint               | Deskripsi        |
