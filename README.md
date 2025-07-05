@@ -67,7 +67,7 @@ npm install
 npm run dev
 ```
 
-Akses aplikasi di: `http://localhost:5173`
+Pastikan Server dan Database sudah aktif lalu akses aplikasi di: `http://localhost:5173`
 
 ---
 
@@ -83,7 +83,7 @@ Akses aplikasi di: `http://localhost:5173`
 
 ---
 
-### 🖼️ Screenshots
+## 🖼️ Screenshots
 ### Dashboard
 ![Dashboard](screenshots-rtapp/dashboard.png)
 ### Penghuni
@@ -98,6 +98,11 @@ Akses aplikasi di: `http://localhost:5173`
 ![Pengeluaran](screenshots-rtapp/pengeluaran.png)
 ### Laporan
 ![Laporan](screenshots-rtapp/laporan.png)
+
+---
+
+## 📄 Entity Relationship Diagrams (ERD)
+![erd](screenshots-rtapp/ERD.png)
 
 ---
 
