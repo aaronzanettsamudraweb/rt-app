@@ -133,4 +133,4 @@ Pastikan Server dan Database sudah aktif lalu akses aplikasi di: `http://localho
 ## 👤 Developer
 
 * Nama: **Aaron Zanett Samudra**
-* GitHub: [@aaronzanettsamudraweb](https://github.com/aaronzanettsamudraweb)
+* GitHub: [@aaronzanett](https://github.com/aaronzanett)
